@@ -36,7 +36,7 @@ Rails app and files can be shared
 - $ rail c
 - Schedule.all
 - => Schedule Load (0.5ms) SELECT "schedules".\* FROM "schedules"
-- Schedule.creat(day: 'Wednesday', date: '2023-04-12', event: 'Office Hours')
+- Schedule.create(day: 'Wednesday', date: '2023-04-12', event: 'Office Hours')
 - Schedule.first -> returns the first index 
 - Schedule.last -> returns the last index 
 - Schedule.find(1) -> returns the specified primary key instance
