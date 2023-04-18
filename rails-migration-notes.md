@@ -3,7 +3,9 @@ Resources: guides.rubyonrails.org/
 
 ### How to drop rails database
  - $ rails db:drop
+ controllers-routes-views
  - $ cd .. 
+
  - $ rm -rf <name of the rails app>
 
 - Generate a model 
