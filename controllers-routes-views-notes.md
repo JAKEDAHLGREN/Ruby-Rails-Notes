@@ -64,7 +64,7 @@ end
     # can be see in the server terminal and live server when you enter in/route_name
 ``` 
 
-## View file (movie_recommendations.erb) - embedded ruby file
+## View file (movie_recommendations.html.erb) - embedded ruby file
   - use <%= to embed ruby
 
 ```js
